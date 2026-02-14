@@ -3,10 +3,10 @@ ansible_password: DevOps321
 
 MONGODB_HOST: mongodb-dev.hamsa.sbs
 CATALOGUE_HOST: catalogue-dev.hamsa.sbs
-# REDIS_HOST=redis-dev.hamsa.sbs
-# USER_HOST=user-dev.hamsa.sbs
-# CART_HOST=cart-dev.hamsa.sbs
-# MYSQL_HOST=mysql-dev.hamsa.sbs
-# SHIPPING_HOST=shipping-dev.hamsa.sbs
-# RABBITMQ_HOST=rabbitmq-dev.hamsa.sbs
-# PAYMENT_HOST=payment-dev.hamsa.sbs
+REDIS_HOST: redis-dev.hamsa.sbs
+USER_HOST: user-dev.hamsa.sbs
+CART_HOST: cart-dev.hamsa.sbs
+MYSQL_HOST: mysql-dev.hamsa.sbs
+SHIPPING_HOST: shipping-dev.hamsa.sbs
+RABBITMQ_HOST: rabbitmq-dev.hamsa.sbs
+PAYMENT_HOST: payment-dev.hamsa.sbs
